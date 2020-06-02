@@ -4,8 +4,8 @@ go 1.14
 
 require (
 	github.com/DataDog/zstd v1.4.5 // indirect
-	github.com/ElementumOrg/cfbypass v0.0.0-20200513191419-1dea11c3c007
-	github.com/ElementumOrg/libtorrent-go v0.0.0-20200519182336-afa516526fc9
+	github.com/mrjdainc/cfbypass v0.0.0-20200513191419-1dea11c3c007
+	github.com/mrjdainc/libtorrent-go v0.0.0-20200519182336-afa516526fc9
 	github.com/RoaringBitmap/roaring v0.4.23
 	github.com/Sereal/Sereal v0.0.0-20200430150152-3c99d16fbeb1 // indirect
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
