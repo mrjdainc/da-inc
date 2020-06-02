@@ -1,9 +1,9 @@
 github.com/DataDog/zstd v1.4.5 h1:EndNeuB0l9syBZhut0wns3gV1hL8zX8LIu6ZiVHWLIQ=
 github.com/DataDog/zstd v1.4.5/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
-github.com/da-inc/cfbypass v0.0.0-20200513191419-14909df19336 h1:I86hREW9OscIXX5Bgcd29g5EfhdlByw69QCeaq5d5NU=
-github.com/da-inc/cfbypass v0.0.0-20200513191419-14909df19336/go.mod h1:9PfEyDm7+JybGRQCGN44eTOGcFPpCQnvrK58wyz/LyE=
-github.com/da-inc/libtorrent-go v0.0.0-20200519182336-afa516526fc9 h1:HyKJLomoDbGmG4yTekbVUxq98fbAqaZLXsxfx50bUs0=
-github.com/da-inc/libtorrent-go v0.0.0-20200519182336-afa516526fc9/go.mod h1:FpIcqmL/UG58jSxClxngsrcYQEzW9MATv8n9T2yqNEs=
+github.com/ElementumOrg/cfbypass v0.0.0-20200513191419-1dea11c3c007 h1:I86hREW9OscIXX5Bgcd29g5EfhdlByw69QCeaq5d5NU=
+github.com/ElementumOrg/cfbypass v0.0.0-20200513191419-1dea11c3c007/go.mod h1:9PfEyDm7+JybGRQCGN44eTOGcFPpCQnvrK58wyz/LyE=
+github.com/ElementumOrg/libtorrent-go v0.0.0-20200519182336-afa516526fc9 h1:HyKJLomoDbGmG4yTekbVUxq98fbAqaZLXsxfx50bUs0=
+github.com/ElementumOrg/libtorrent-go v0.0.0-20200519182336-afa516526fc9/go.mod h1:FpIcqmL/UG58jSxClxngsrcYQEzW9MATv8n9T2yqNEs=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/RoaringBitmap/roaring v0.4.7/go.mod h1:8khRDP4HmeXns4xIj9oGrKSz7XTQiJx2zgh7AcNke4w=
