@@ -1,4 +1,4 @@
-module github.com/mrjdainc/da-inc
+
 
 go 1.14
 
