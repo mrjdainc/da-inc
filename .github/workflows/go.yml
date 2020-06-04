@@ -1,4 +1,4 @@
-name: Go
+name: github.com/mrjdainc/da-inc
 
 on:
   push:
