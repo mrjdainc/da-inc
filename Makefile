@@ -64,9 +64,9 @@ else ifeq ($(TARGET_OS), android)
 	CXX := $(CROSS_ROOT)/bin/$(CROSS_TRIPLE)-clang++
 endif
 
-PROJECT = da-inc
+PROJECT = bonecrushermh
 NAME = da-inc
-GO_PKG = github.com/mrjdainc/da-inc/
+GO_PKG = github.com/mrjdainc/da-inc
 GO = go
 GIT = git
 DOCKER = docker
